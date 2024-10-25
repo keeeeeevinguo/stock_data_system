@@ -1,0 +1,18 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# Virtual environments
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Docker
+*.swp
+docker-compose.override.yml
