@@ -1,4 +1,4 @@
-# Financial Data System
+# Stock Data System
 
 ### Overview
 
