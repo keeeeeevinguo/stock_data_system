@@ -17,7 +17,7 @@ A Django-based backend system that integrates with a public financial API to fet
    - Generates performance metrics including total return, max drawdown, and number of trades.
 
 3. **Machine Learning Integration**
-   - Uses a pre-trained model (e.g., linear regression) to predict future stock prices based on historical data.
+   - Uses a pre-trained XGBoost model to predict future stock prices based on historical data.
    - Predictions for the next 30 days are generated and stored alongside actual stock data for comparison.
 
 4. **Report Generation**
